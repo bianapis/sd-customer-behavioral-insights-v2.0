@@ -1,0 +1,14 @@
+{
+  "requestRecordReference" : "RRR787449",
+  "customerBehaviorAnalysisRequestActionTaskReference" : "CBARATR728542",
+  "customerBehaviorAnalysisInstanceRecord" : {
+    "customerBehaviorAnalysisInsightsRecord" : {
+      "customerInsight" : "customerInsight",
+      "customerInsightCalculationDate" : "09-22-2018",
+      "customerInsightType" : "customerInsightType"
+    },
+    "customerInsightAnalysisSchedule" : "customerInsightAnalysisSchedule"
+  },
+  "customerBehaviorAnalysisRequestActionTaskRecord" : {},
+  "requestResponseRecord" : {}
+}

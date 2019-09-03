@@ -1,0 +1,13 @@
+{
+  "insightRequestRecordReference" : "IRRR772677",
+  "insightRequestActionTaskReference" : "IRATR767986",
+  "insightInstanceRecord" : {
+    "insightEvaluationTask" : {
+      "insightEvaluationRequestResult" : "insightEvaluationRequestResult",
+      "insightEvaluationWorkProducts" : "insightEvaluationWorkProducts"
+    },
+    "insightEvaluationCustomerInsightType" : "insightEvaluationCustomerInsightType"
+  },
+  "requestResponseRecord" : {},
+  "insightRequestActionTaskRecord" : {}
+}

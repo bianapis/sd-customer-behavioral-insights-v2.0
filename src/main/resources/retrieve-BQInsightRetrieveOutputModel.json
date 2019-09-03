@@ -1,0 +1,40 @@
+{
+  "insightRetrieveActionTaskReference" : "IRATR737479",
+  "customerBehaviorAnalysisInstanceRecord" : {
+    "customerBehaviorAnalysisInsightsRecord" : {
+      "customerInsight" : "customerInsight",
+      "customerInsightCalculationDate" : "09-22-2018",
+      "customerInsightType" : "customerInsightType"
+    },
+    "customerInsightAnalysisSchedule" : "customerInsightAnalysisSchedule",
+    "customerReference" : "725515"
+  },
+  "insightInstanceRecord" : {
+    "insightEvaluationTask" : {
+      "insightEvaluationRequestSpecification" : "insightEvaluationRequestSpecification",
+      "insightEvaluationProductServiceActivityReport" : {},
+      "insightEvaluationCustomerBehaviorModelReference" : "791377",
+      "insightEvaluationCustomerEventLogReport" : {},
+      "insightEvaluationServicingEventLogReport" : {},
+      "insightEvaluationMarketResearchReport" : {},
+      "insightEvaluationRequestResult" : "insightEvaluationRequestResult",
+      "insightEvaluationChannelEventLogReport" : {},
+      "insightEvaluationWorkProducts" : "insightEvaluationWorkProducts"
+    },
+    "insightEvaluationCustomerInsightType" : "insightEvaluationCustomerInsightType"
+  },
+  "insightRetrieveActionTaskRecord" : {},
+  "insightRetrieveActionResponse" : "insightRetrieveActionResponse",
+  "insightInstanceReport" : {
+    "insightInstanceReportRecord" : {},
+    "insightInstanceReportParameters" : "insightInstanceReportParameters",
+    "insightInstanceReportType" : "insightInstanceReportType",
+    "insightInstanceReport" : {}
+  },
+  "insightInstanceAnalysis" : {
+    "insightInstanceAnalysisParameters" : "insightInstanceAnalysisParameters",
+    "insightInstanceAnalysisRecord" : {},
+    "insightInstanceAnalysisReport" : {},
+    "insightInstanceAnalysisReportType" : "insightInstanceAnalysisReportType"
+  }
+}

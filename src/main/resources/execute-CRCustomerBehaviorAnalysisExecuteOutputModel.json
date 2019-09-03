@@ -1,0 +1,14 @@
+{
+  "customerBehaviorAnalysisExecuteActionTaskRecord" : {},
+  "executeRecordReference" : "ERR778209",
+  "executeResponseRecord" : {},
+  "customerBehaviorAnalysisInstanceRecord" : {
+    "customerBehaviorAnalysisInsightsRecord" : {
+      "customerInsight" : "customerInsight",
+      "customerInsightCalculationDate" : "09-22-2018",
+      "customerInsightType" : "customerInsightType"
+    },
+    "customerInsightAnalysisSchedule" : "customerInsightAnalysisSchedule"
+  },
+  "customerBehaviorAnalysisExecuteActionTaskReference" : "CBAEATR762644"
+}
